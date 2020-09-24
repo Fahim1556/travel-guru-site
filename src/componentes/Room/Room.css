@@ -1,0 +1,21 @@
+.ImgSize{
+    width:280px!important;
+    margin-left: 5px;
+    margin-bottom: 20px!important;
+}
+.RoomDetail{
+    width: 2000px;
+}
+.RoomDetail p{
+    font-size: 18px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.IconSize{
+    width: 20px;
+}
+.rating{
+    margin-top: 10px!important;
+    font-weight:500;
+    margin-left: 10px;
+}

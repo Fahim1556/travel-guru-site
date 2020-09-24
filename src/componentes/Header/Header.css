@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container .logo{
+    height:40px;
+    color:#FFFF!important;
+    
+}
+
+.bg-part{
+    background:url('../../Image/bg.png') ;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.),rgba(0, 0, 0, 0.57)); 
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    margin-top: -50px!important;
+    opacity: 1;
+    height: 100vh;
+      
+}
+.formScarch{
+    color:#FFFF!important;
+    border-radius: 5px ;
+    height: 25px;
+    width: 280px!important;
+    padding: 5px;
+    background-color:rgba(255, 255, 255, 0.207)!important;
+    border: 1px solid #FFFF!important;
+    box-sizing: border-box;
+}
+.bg-part .container .navText{
+    margin-left:10px;
+    color:#FFFF!important;
+    font-weight: 700;
+    
+}
+
+
+.login{
+    
+    color: black;
+    height:27px;
+    margin-top: 8px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 15px;
+
+}
+
+li{
+    display: inline-table;
+
+} 
+li a{
+    
+    color:#FFFF;
+    padding: 12px 0 10px;
+    position: relative;
+    top: 45px;
+    right: 165px;
+    font-size: 15px;
+    margin-left: 15px;
+    transition: all 2s;
+}
+
+.leftside h2{
+    color: #FFFF;
+    font-size: 45px;
+   
+}
+.leftside p{
+    color:#FFFF;
+    font-weight: 400;
+    font-size:10px;
+    margin-right: 120px!important;
+    text-align:justify;
+    font-family: sans-serif;
+}
+
+.leftside{
+    width: 400px;
+    margin-top: 80px;
+
+}
+
+
+

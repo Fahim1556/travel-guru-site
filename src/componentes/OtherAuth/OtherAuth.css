@@ -1,0 +1,40 @@
+.buttonPart {
+    margin-top: 50px;
+    width: 400px;
+    margin-bottom: 80px;
+   
+}
+
+.GoogleAuth{
+    background-color:#FFFf!important;
+    color: black!important;
+    font-weight: 500;
+    border-radius:28px;
+    border-color: gray;
+    box-shadow: 10px 10px 20px lightgray!important;
+}
+
+.icon{
+    float: left;
+    width: 25px;
+}
+
+
+
+.navText{
+    color:black!important;
+}
+.formSize{
+    width: 400px!important;
+    padding: 40px;
+    border-radius: 5px;
+    margin: auto;
+    border: 1px solid gray;
+}
+.Forgot{
+   float: right;
+   color: orange;
+}
+.accountcreator{
+    text-align: center;
+}
