@@ -258,7 +258,7 @@ const OtherAuth = () => {
 
                                 <div className="account-part">
                                     <span>Already have an account?</span>
-                                    <a onClick={handleLogIn} style={{ color:'orange'}}  href="#">Login</a>
+                                    <a onClick={handleLogIn} style={{ color:'orange'}}   href="#">Login</a>
                                 </div>
                                   <p
                                     style={{

@@ -10,6 +10,7 @@ import Room from '../Room/Room';
 import './HotelInfo.css';
 
 
+
 const HotelInfo = () => {
 
     const dataFake = [
@@ -67,17 +68,20 @@ const HotelInfo = () => {
                     <h6>252 Stays Apr 13-17 3 guests</h6>
                     <h4>Stay in Cox's Bazar</h4>
                      {
-                         dataFake.map(dataFake => <Room dataFake ={dataFake}/>) 
+                         dataFake.map(dataFake =><Room dataFake = {dataFake}/>) 
                        
                      }
                 </Col>
+
                 <Col>
-                   <img className="mapSize" src={mapScarch} alt=""/> 
+                    <img className="mapSize" src={mapScarch} alt=""/> 
+                     
                 </Col>
             </Row>
 
       </Container>
  </div>
+                        
     );
 };
 

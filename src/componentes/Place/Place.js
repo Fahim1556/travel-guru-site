@@ -1,8 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './Place.css';
-import {Button} from 'react-bootstrap';
-import {card} from 'react-bootstrap';
+
 
 
 
